@@ -3,20 +3,20 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Angela's Portfolio</title>
+  <title>JUAN Portfolio</title>
 </head>
 
 <body>
-  <h1>Angela Yu's Portfolio</h1>
-  <h2>I'm a Web Developer</h2>
+  <h1>fornite ranks </h1>
+  <h2>I'm a pro in fornite</h2>
   <hr />
-  <h3><a href="./public/movie-ranking.html">Movie Ranking Project</a></h3>
-  <img src="./assets/images/movie-ranking.png" height="200" alt="movie ranking project preview"/>
-  <h3><a href="./public/birthday-invite.html">Birthday Invite Project</a></h3>
-  <img src="./assets/images/birthday-invite.png" height="200" alt="birthday invite project preview"/>
+  <h3><a href="https://i.ytimg.com/vi/Qk0lui8IVz8/maxresdefault.jpg">fornite Ranking</a></h3>
+  <img src="https://i.ytimg.com/vi/Qk0lui8IVz8/maxresdefault.jpg" height="200" alt="ranks of fornite"/>
+  <h3><a href="https://th.bing.com/th/id/R.f7daa7b50f36c86cc2e052d1266c47ec?rik=behT843fsNQ5xg&pid=ImgRaw&r=0">renegater rader</a></h3>
+  <img src="https://th.bing.com/th/id/R.f7daa7b50f36c86cc2e052d1266c47ec?rik=behT843fsNQ5xg&pid=ImgRaw&r=0" height="200" alt="renegada"/>
   <hr />
-  <a href="./public/about.html">About Me</a>
-  <a href="./public/contact.html">Contact Me</a>
+  <a href="https://fortnitetracker.com/profile/all/JuanBrasset%E3%83%84/events">mi id</a>
+  <a href="https://fortnitetracker.com/profile/all/JuanBrasset%E3%83%84/events">mi earnings</a>
 </body>
 
 </html>

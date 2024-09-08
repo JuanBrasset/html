@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>JUAN Portfolio</title>
+ JUAN Portfolio
 </head>
 
 <body>
